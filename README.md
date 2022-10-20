@@ -1,6 +1,7 @@
 # Introduction
-Following an angular tutorial because of school.
+Following an angular tutorial because of school(We didn't have to follow the tutorial. You could have made your own project)<br>
 I've done all 6 parts of the tutorial which we had to do.
+
 ## Week 1 
 The first week we did 1. The hero editor.
 In this tutorial we started with generating a component with "ng generate component heroes" after this I had to create a hero interface and display said hero interface. I imported some modules. Made it so we could show the hero object.
